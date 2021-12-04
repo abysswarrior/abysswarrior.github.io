@@ -20,19 +20,14 @@ googleAnalytics = ""
 
 ## Social links
 [[params.socialIcons]]
-icon = "fa-linkedin"
+icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/mehran-safaripour/"
 
 [[params.socialIcons]]
-icon = "fa-github"
+icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/b1ng-b0ng"
-
-#[[params.socialIcons]]
-#icon = "fa-instagram"
-#title = "instagram"
-#url = "https://www.instagram.com/"
 
 [menu]
 
@@ -60,9 +55,4 @@ url = "https://github.com/b1ng-b0ng"
   identifier = "about"
   url = "/about/"
 
-#[[menu.main]]
-#name = "resume"
-#weight = 400
-#identifier = "resume"
-#url = "https://resume.mshade.org"
 
