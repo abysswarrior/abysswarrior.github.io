@@ -1,0 +1,68 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Mehran Safaripour"
+theme = "anatole"
+summarylength = "10"
+enableEmoji = true
+enableRobotsTXT = true
+paginate = 5
+publishDir = "./docs"
+googleAnalytics = ""
+
+[params]
+  # dir name of your main content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  title = "Mehran Safaripour"
+  author = "Mehran Safaripour"
+  description = "Back-End and Cryptocurrency"
+  profilePicture = "https://avatars.githubusercontent.com/u/52608415?v=4"
+  displayMode = "dark"
+
+## Social links
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/mehran-safaripour/"
+
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/b1ng-b0ng"
+
+#[[params.socialIcons]]
+#icon = "fa-instagram"
+#title = "instagram"
+#url = "https://www.instagram.com/"
+
+[menu]
+
+  [[menu.main]]
+  name = "home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "posts"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
+  
+  [[menu.main]]
+  name = "projects"
+  weight = 300
+  identifier = "projects"
+  url = "/projects/"
+
+  [[menu.main]]
+  name = "about"
+  weight = 400
+  identifier = "about"
+  url = "/about/"
+
+#[[menu.main]]
+#name = "resume"
+#weight = 400
+#identifier = "resume"
+#url = "https://resume.mshade.org"
+

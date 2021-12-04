@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mike Shade</title>
+    <link>/</link>
+    <description>Recent content on Mike Shade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Sep 2020 20:36:25 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keychron Linux Function Keys</title>
+      <link>/posts/keychron-linux-function-keys/</link>
+      <pubDate>Mon, 28 Sep 2020 20:36:25 +0000</pubDate>
+      
+      <guid>/posts/keychron-linux-function-keys/</guid>
+      <description>&lt;p&gt;On Linux, the &lt;a href=&#34;https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard&#34;&gt;Keychron K2&lt;/a&gt;
+doesn&amp;rsquo;t register any of the F1-F12 function keys as actual F keys, instead,
+treating them as multimedia keys by default. Here&amp;rsquo;s how to fix it!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gecho Golang Echoserver</title>
+      <link>/posts/gecho-golang-echoserver/</link>
+      <pubDate>Sun, 27 Sep 2020 06:41:07 +0000</pubDate>
+      
+      <guid>/posts/gecho-golang-echoserver/</guid>
+      <description>One of my favorite tiny projects for learning a new language is implementing an echo server.</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>/about/</link>
+      <pubDate>Sun, 27 Sep 2020 01:48:06 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi, I&amp;rsquo;m Mike Professionally, I do devopsy things. I love working with linux, kubernetes, containers, and gluing things together &amp;ndash; whether I should or not.</description>
+    </item>
+    
+    <item>
+      <title>Enabling Docker&#39;s Native Overlay Diff on Linux</title>
+      <link>/posts/docker-native-overlay-diff/</link>
+      <pubDate>Sun, 27 Sep 2020 00:59:11 +0000</pubDate>
+      
+      <guid>/posts/docker-native-overlay-diff/</guid>
+      <description>Watching &lt;code&gt;docker build&lt;/code&gt; on my workstation, I noticed that the process was pausing between layers&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Hello, world</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hello-world/</guid>
+      <description>Just getting started with hugo.</description>
+    </item>
+    
+  </channel>
+</rss>

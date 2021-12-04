@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#
+
+docker run -u $UID -it --rm -v $PWD:/src -p 1313:1313 klakegg/hugo serve --bind 0.0.0.0
+

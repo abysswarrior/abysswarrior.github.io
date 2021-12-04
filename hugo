@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#
+
+docker run -u $UID -it --rm -v $PWD:/src klakegg/hugo $@

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>docker on Mike Shade</title>
+    <link>/tags/docker/</link>
+    <description>Recent content in docker on Mike Shade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Sep 2020 00:59:11 +0000</lastBuildDate><atom:link href="/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enabling Docker&#39;s Native Overlay Diff on Linux</title>
+      <link>/posts/docker-native-overlay-diff/</link>
+      <pubDate>Sun, 27 Sep 2020 00:59:11 +0000</pubDate>
+      
+      <guid>/posts/docker-native-overlay-diff/</guid>
+      <description>Watching &lt;code&gt;docker build&lt;/code&gt; on my workstation, I noticed that the process was pausing between layers&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
